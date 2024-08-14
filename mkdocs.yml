@@ -44,8 +44,6 @@ theme:
 plugins:
   - glightbox
   - search
-  - optimize
-  - social
 
 extra:
   social:
