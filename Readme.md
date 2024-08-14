@@ -42,3 +42,7 @@ mkdocs new .
 ```bash
 mkdocs serve
 ```
+
+- Setup GitHub Pages
+
+![alt text](./assets/image.png)

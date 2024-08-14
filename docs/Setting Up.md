@@ -4,7 +4,7 @@ This is a simple example of how to use MkDocs to generate documentation for your
 
 ## Resources
 
-- [MkDocs](https://www.mkdocs.org/)
+- [MkDocs](https://squidfunk.github.io/mkdocs-material/getting-started/)
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 - [How To Create STUNNING Code Documentation With MkDocs Material Theme](https://youtu.be/Q-YA_dA8C20?si=YV01u_LMFK4zi8a6)
 - [Supporting code for the video](https://github.com/james-willett/mkdocs-material-youtube-tutorial/tree/main)
@@ -42,3 +42,7 @@ mkdocs new .
 ```bash
 mkdocs serve
 ```
+
+- Setup GitHub Pages
+
+![alt text](./assets/image.png)
